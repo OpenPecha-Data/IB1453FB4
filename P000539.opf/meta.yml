@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD17609
   title: 藏事要闻（༡༩༤༩-༢༠༡༡）
-  volume: ''
+  volume:
+    72d4ed8acfc24add98f7f31ec72474a1:
+      image_group_id: I4PD4239
+      title: Volume 1 of 藏事要闻（1949-2011）
+      volume_number: 1
+      total_pages: 606
   author: ''
+ebook_metadata:
+  title: 藏事要闻（༡༩༤༩-༢༠༡༡）
+  author: ''
+  sku: P000539
+  cover: cover.jpg
+  layers:
+  - pagination
