@@ -1,5 +1,7 @@
 id: P000539
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W2PD17609
   title: 藏事要闻（༡༩༤༩-༢༠༡༡）
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 606
       base_file: v001.txt
-ebook_metadata:
-  title: 藏事要闻（༡༩༤༩-༢༠༡༡）
-  author: ''
-  sku: P000539
-  cover: cover.jpg
-  layers:
-  - pagination
